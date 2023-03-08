@@ -1,0 +1,27 @@
+.update-input {
+  margin: 0 10px;
+}
+
+button {
+  border-radius: 6px;
+  border: 1px solid rgb(167, 167, 247);
+}
+
+label {
+  color: rgb(143, 5, 5);
+}
+
+fieldset {
+  margin-bottom: 10px;
+}
+
+a {
+  /*margin-top: 15px;*/
+  color: rgb(175, 203, 255);
+  text-decoration: none;
+}
+
+div {
+  margin: 10px 0;
+}
+
