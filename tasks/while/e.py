@@ -1,0 +1,9 @@
+a=int(input())
+k=1
+i=1
+while(i!=0):
+    if(2**k<a):
+        k+=1
+    else:
+        print(k)
+        i=0
